@@ -15,8 +15,6 @@ string
 -
 algorithm
 -
-iostream
--
 
 /Users/nathanstruhs/exercism/cpp/bob/bob_test.cpp
 bob.h

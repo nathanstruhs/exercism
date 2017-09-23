@@ -1,7 +1,7 @@
 #include "bob.h"
 
 bool is_question(std::string remark) {
-	return (remark[remark.length() -1] == '?');
+	return (remark.back() == '?');
 }
 
 bool is_yell(std::string remark) {
