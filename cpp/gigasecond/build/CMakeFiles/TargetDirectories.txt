@@ -1,0 +1,3 @@
+/Users/nathanstruhs/exercism/cpp/gigasecond/build/CMakeFiles/rebuild_cache.dir
+/Users/nathanstruhs/exercism/cpp/gigasecond/build/CMakeFiles/edit_cache.dir
+/Users/nathanstruhs/exercism/cpp/gigasecond/build/CMakeFiles/gigasecond.dir
